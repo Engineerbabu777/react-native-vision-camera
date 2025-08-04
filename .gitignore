@@ -8,7 +8,6 @@
 .expo/
 
 # VSCode
-.vscode/
 jsconfig.json
 
 # Xcode
@@ -75,3 +74,4 @@ lib/
 
 # TypeScript
 tsconfig.tsbuildinfo
+config.bat
